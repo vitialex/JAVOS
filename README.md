@@ -1,5 +1,13 @@
 # JAVOS: Just Another Version for the Online Study
 
+[![Release](https://img.shields.io/github/v/release/vitialex/JAVOS)](https://github.com/vitialex/JAVOS/releases/latest)
+[![Build](https://img.shields.io/github/actions/workflow/status/vitialex/JAVOS/build-and-release.yml?label=build)](https://github.com/vitialex/JAVOS/actions/workflows/build-and-release.yml)
+[![Licence: PolyForm Noncommercial 1.0.0](https://img.shields.io/badge/licence-PolyForm%20Noncommercial%201.0.0-blue)](LICENSE)
+![Platform: Windows](https://img.shields.io/badge/platform-Windows-0078D6)
+![JATOS: tested with 3.11.3](https://img.shields.io/badge/JATOS-tested%20with%203.11.3-informational)
+![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-3776AB)
+![Status: stable](https://img.shields.io/badge/status-stable-brightgreen)
+
 [Castellano](#castellano) · [Català](#català) · [English](#english)
 
 ---
