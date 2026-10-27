@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# PyInstaller
+*.manifest
+*.spec
+JAVOS.exe
+
+# Local Config & Secrets
+javos_config.json
+test_javos_config.json
+.env
+commit_log.md
+
+# Exported studies / tasks (may contain participant data)
+*.zip
+*.jzip
+
+# IDEs & OS
+.vscode/
+.idea/
+*.swp
+Thumbs.db
+Desktop.ini
